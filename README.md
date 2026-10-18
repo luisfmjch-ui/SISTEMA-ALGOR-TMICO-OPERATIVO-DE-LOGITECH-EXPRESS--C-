@@ -1,4 +1,4 @@
-# SISTEMA-ALGOR-TMICO-OPERATIVO-DE-LOGITECH-EXPRESS-c++
+//SISTEMA-ALGOR-TMICO-OPERATIVO-DE-LOGITECH-EXPRESS-c++
 // Proyecto Final Algoritmos - LogiTech Express
 #include <iostream>
 #include <iomanip>
